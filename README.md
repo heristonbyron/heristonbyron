@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao meu perfil 🚀
-<h2> Me chamo Hériston Byron </h2>
+<h2> Bem-vindo(a) ao meu perfil 🚀 </h2>
+Me chamo Hériston Byron
 ## Tenho 22 anos
 ## Engenheiro de Produção
 ## Analista de TI
