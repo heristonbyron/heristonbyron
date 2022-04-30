@@ -1,4 +1,9 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil 🚀
+## Me chamo Hériston Byron
+## Tenho 22 anos
+## Engenheiro de Produção
+## Analista de TI
+## Amante de Programação
  <div>
   <div>
   <a href="https://github.com/heristonbyron">
