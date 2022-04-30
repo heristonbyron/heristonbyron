@@ -1,9 +1,9 @@
 <h1> Bem-vindo(a) ao meu perfil 🚀 </h1>
-<p> Me chamo Hériston Byron </p>
-<p> Tenho 22 anos </p>
-<p> Engenheiro de Produção </p>
-<p> Analista de TI </p>
-<p> Amante de Programação </p>
+<p> 👱🏼‍♂️ Me chamo Hériston Byron </p>
+<p> ✍🏼 Tenho 22 anos </p>
+<p> 👷🏼‍♂️ Engenheiro de Produção </p>
+<p> 👨🏼‍💻 Analista de TI </p>
+<p> 💻 Amante de Programação </p>
  <div>
   <div>
   <a href="https://github.com/heristonbyron">
